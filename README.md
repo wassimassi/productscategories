@@ -32,9 +32,9 @@ using:
 	DB_USERNAME=root
 	DB_PASSWORD=
 
-6. run command: php artisan passport:install
+6. run command: php artisan migrate
 
-7. run command: php artisan migrate
+7. run command: php artisan passport:install
 	
 8. run command: php artisan l5-swagger:generate
 
